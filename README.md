@@ -16,15 +16,15 @@ This script grabs whatever is on the clipboard, splits it by new line characters
 
 # Install 
 
-Make `clipboard-2-csv.js` executable
+Make `clipboard-2-csv` executable
 
 ```sh
-chmod +x clipboard-2-csv.js
+chmod +x clipboard-2-csv
 ```
 
 ## Usage
 
 * Copy list from excel or anything that puts text into the clipboard sparated by new lines.
-* `/PATH/TO/clipboard-2-csv.js` (I have it as a shortcut)
+* `/PATH/TO/clipboard-2-csv` (I have it as a shortcut)
 * Paste. What you past will be comma separated.
 
