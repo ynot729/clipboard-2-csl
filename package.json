@@ -1,0 +1,14 @@
+{
+  "name": "clipboard-2-csl",
+  "version": "1.0.0",
+  "description": "get the contents of the clipboard and switch them to csv. helpful from copying a bunch of cells from excel and converting to a comma separated list",
+  "main": "clipboard-2-csv",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^2.3.0"
+  }
+}
