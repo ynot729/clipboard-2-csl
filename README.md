@@ -14,13 +14,19 @@ and need to paste it somewhere in the format 5555,6666,7777,8888,9999
 
 This script grabs whatever is on the clipboard, splits it by new line characters `\n` and joins it by commas `,`
 
-# Install 
-
-Make `clipboard-2-csv` executable
+## Install 
 
 ```sh
+# clone repo localy
+cd path/to/download
+npm install
+# make `clipboard-2-csv` executable
 chmod +x clipboard-2-csv
 ```
+
+## Todo
+
+* Distribution step? .exe .dmg ?
 
 ## Usage
 
